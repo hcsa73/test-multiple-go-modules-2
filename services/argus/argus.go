@@ -6,7 +6,7 @@ import (
 	"github.com/hcsa73/test-multiple-go-modules-2/core"
 )
 
-const CONST = "SERVICES/ARGUS-V1.0.0"
+const CONST = "SERVICES/ARGUS-V1.0.1"
 
 func GetConst() string {
 	return CONST
