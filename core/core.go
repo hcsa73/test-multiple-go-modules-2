@@ -6,7 +6,7 @@ import (
 	"golang.org/x/example/stringutil"
 )
 
-const CONST = "CORE-V1.0.0"
+const CONST = "CORE-V1.0.1"
 
 func GetConst() string {
 	return CONST
