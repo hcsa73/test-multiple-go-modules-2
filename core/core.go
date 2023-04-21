@@ -18,6 +18,7 @@ func getConstReversed() string {
 
 func GetInfo() string {
 	out := "Hello from core!\n"
+	out += fmt.Sprintf("Const : %v\n", CONST)
 	out += fmt.Sprintf("Const reversed: %v\n", getConstReversed())
 	return out
 }
