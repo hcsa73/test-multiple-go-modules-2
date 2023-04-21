@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hcsa73/test-multiple-go-modules-2/core"
+	"github.com/hcsa73/test-multiple-go-modules-2/core/v2"
 	"github.com/hcsa73/test-multiple-go-modules-2/services/argus"
 )
 
