@@ -1,4 +1,4 @@
-module github.com/hcsa73/test-multiple-go-modules-2/core
+module github.com/hcsa73/test-multiple-go-modules-2/core/v2
 
 go 1.19
 
