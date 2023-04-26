@@ -6,7 +6,7 @@ import (
 	"golang.org/x/example/stringutil"
 )
 
-const CONST = "CORE-V2.0.0"
+const CONST = "CORE-V2.0.1"
 
 func getConstReversed() string {
 	return stringutil.Reverse(CONST)
