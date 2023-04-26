@@ -1,7 +1,7 @@
 github.com/hcsa73/test-multiple-go-modules-2/core v1.0.1 h1:9m7VkHhCuuqU0XPffNrhA7RigAV04NsLNsxCliHmgx0=
 github.com/hcsa73/test-multiple-go-modules-2/core v1.0.1/go.mod h1:/8/qj4XOYb+2iR974APPC210rFBGGgBN3VqUF2CcEPE=
-github.com/hcsa73/test-multiple-go-modules-2/core/v2 v2.0.0 h1:Y/WEL7U+c6nsE2/ZM6mJFCKddoC+WXocsUN3oDOl6yI=
-github.com/hcsa73/test-multiple-go-modules-2/core/v2 v2.0.0/go.mod h1:QfOFLYVbSQ1kcdCsXMEuLvxxmGcC1lKn1nsAVz72Yu4=
+github.com/hcsa73/test-multiple-go-modules-2/core/v2 v2.0.1 h1:Y/KoU7a19UNGC8+XuOWyB0sNcHIWRdkkqK0sPWULxgc=
+github.com/hcsa73/test-multiple-go-modules-2/core/v2 v2.0.1/go.mod h1:QfOFLYVbSQ1kcdCsXMEuLvxxmGcC1lKn1nsAVz72Yu4=
 github.com/hcsa73/test-multiple-go-modules-2/services/argus v1.0.1 h1:0ATu9blw8mojqxd0cfqdI362/fCsLH0pvCS3aKKKrkQ=
 github.com/hcsa73/test-multiple-go-modules-2/services/argus v1.0.1/go.mod h1:NNR+WXglV6yKIJgtEIx0mt9TJlI7ME73xJy+uF6bNAI=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

@@ -3,7 +3,7 @@ module github.com/hcsa73/test-multiple-go-modules-2/poc
 go 1.19
 
 require (
-	github.com/hcsa73/test-multiple-go-modules-2/core/v2 v2.0.0
+	github.com/hcsa73/test-multiple-go-modules-2/core/v2 v2.0.1
 	github.com/hcsa73/test-multiple-go-modules-2/services/argus v1.0.1
 )
 
